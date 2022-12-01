@@ -1,5 +1,4 @@
 #!/bin/bash
-
 declare -a even_list=()
 declare -a odd_list=()
 
