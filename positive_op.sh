@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter two numbers"
+echo "enter two numbers to find positive output"
 read a b
 
 num1=`expr $a + $b`
