@@ -6,3 +6,4 @@ then
 else
 echo "ENTERED NUMBER IS NOT EQUAL TO 5"
 fi
+echo "print lines"
